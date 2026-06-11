@@ -12,6 +12,12 @@ In the search box, paste any of:
 
 Press **Analyze**.
 
+**Any contract works — not just the scored universe.** If the token *is* in the backbone universe you get
+the full composite verdict (below). If it **isn't**, it no longer dead-ends — VANTAGE resolves the contract
+**live on-chain**: it auto-detects the chain, pulls a **market snapshot** (price, liquidity, FDV, 24h
+volume / change) and opens the full live toolset (Wallet Cluster, Deep Scan, On-Chain). Only the *composite
+score* needs indexed history; everything else runs on any valid contract.
+
 ## The composite verdict
 
 The headline result is a **composite score (0–100)** with a colour and a pattern label, plus a
@@ -28,9 +34,11 @@ Common **pattern labels** include *full agreement* (strongest), *strong buy*, *a
 *on-chain distribution*, *distribution*, and *neutral*.
 
 {% hint style="info" %}
-**"No backbone coverage"?** The token isn't in the **scored universe** yet (the composite needs indexed
-history). That's normal for new tokens — the **live on-chain tools still work**. Either open it from
-[Degen Lab](../discover/degen-lab.md), or use the Forensics / Wallet Cluster / On-Chain tabs directly.
+**Outside the scored universe?** The composite score only appears once a token is in the **scored universe**
+(it needs indexed history). For any other contract you'll see a **🛰️ Live on-chain** overview instead — the
+resolved symbol/chain and a market snapshot — and the Forensics / Wallet Cluster / On-Chain tabs run
+directly on it. Nothing is a dead-end: paste any `0x…` or Solana mint, or open one from
+[Degen Lab](../discover/degen-lab.md).
 {% endhint %}
 
 ## The tabs

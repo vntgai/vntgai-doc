@@ -6,8 +6,10 @@ tell.
 
 ## Running a cluster
 
-1. Open a token → **Wallet Cluster** tab. It auto-runs on the current top-holder cohort.
-2. Pick a **mode** (below), then **Run cluster**.
+1. Open a token → **Wallet Cluster** tab. It **won't run automatically** — clustering is an expensive
+   scan, so it waits for you.
+2. Pick a **mode** (below) — and in **Pro** mode, optionally drag a **date window** on the price chart
+   first — then press **Run cluster**.
 
 The engine pulls the **current top holders**, traces how they're linked, and groups them. Each cluster
 shows its **combined % of supply** — how much the block controls together.
