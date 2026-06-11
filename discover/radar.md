@@ -3,6 +3,8 @@
 **Discover → Radar** shows tokens that are **about to trigger** a trade — most conditions met, not yet
 fired. It's how you see setups *forming* instead of chasing them after the move.
 
+<figure><img src="../.gitbook/assets/radar.png" alt="Radar"><figcaption><p>Radar — the Squeeze and SmartFlow lists, each token one feature short of firing.</p></figcaption></figure>
+
 ## The two lists
 
 | List | What it means |

@@ -3,6 +3,8 @@
 **Track → Signal-Trade** is our **public paper track record**. We trade our own signals in the open so the
 edge is **shown, not just claimed**.
 
+<figure><img src="../.gitbook/assets/signal-trade.png" alt="Signal-Trade"><figcaption><p>The public paper book — equity curve, performance stats, the live trade table, and the Telegram broadcast card.</p></figcaption></figure>
+
 ## What it is
 
 When a signal fires, it's **auto-executed as a paper trade** and recorded here — entries, exits, P&L, and

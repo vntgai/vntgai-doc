@@ -2,6 +2,8 @@
 
 **Research → Token** is your home base. Everything about a single token lives here.
 
+<figure><img src="../.gitbook/assets/token-workspace.png" alt="Token Workspace"><figcaption><p>The composite verdict, market snapshot and per-token tabs (Overview · Perpetual · On-Chain · Wallet Cluster · Forensics).</p></figcaption></figure>
+
 ## Searching a token
 
 In the search box, paste any of:

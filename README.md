@@ -18,6 +18,8 @@ It answers that by fusing four data layers that usually live in separate tools:
 
 The live terminal is at **[vantage-terminal-v2.vercel.app](https://vantage-terminal-v2.vercel.app)**.
 
+<figure><img src=".gitbook/assets/token-workspace.png" alt="VANTAGE Token Workspace"><figcaption><p>The Token Workspace — one composite verdict (accumulation vs distribution), a live market snapshot, and the on-chain tabs that work on any contract.</p></figcaption></figure>
+
 {% hint style="info" %}
 **New here?** The terminal greets first-time visitors with a **guided interactive demo** that drives
 itself through every module. You can replay it any time with the **❔** button in the top bar.

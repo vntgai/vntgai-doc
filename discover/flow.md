@@ -3,6 +3,8 @@
 **Discover → Flow** shows what **smart money and exchanges** are doing on-chain — the supply side of the
 story.
 
+<figure><img src="../.gitbook/assets/flow.png" alt="On-Chain Flow"><figcaption><p>Monitored transfers ≥ $10k across the covered chains, tagged accumulation vs distribution per token.</p></figcaption></figure>
+
 ## What it tracks
 
 **Monitored transfers ≥ $10,000** across the covered chains, with the key read being **where supply is
