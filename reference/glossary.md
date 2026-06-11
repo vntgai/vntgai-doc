@@ -1,6 +1,6 @@
 # Glossary
 
-Key terms used across VANTAGE.
+Key terms used across VERNEY.
 
 | Term | Meaning |
 | --- | --- |

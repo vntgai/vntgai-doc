@@ -15,7 +15,7 @@ In the search box, paste any of:
 Press **Analyze**.
 
 **Any contract works — not just the scored universe.** If the token *is* in the backbone universe you get
-the full composite verdict (below). If it **isn't**, it no longer dead-ends — VANTAGE resolves the contract
+the full composite verdict (below). If it **isn't**, it no longer dead-ends — VERNEY resolves the contract
 **live on-chain**: it auto-detects the chain, pulls a **market snapshot** (price, liquidity, FDV, 24h
 volume / change) and opens the full live toolset (Wallet Cluster, Deep Scan, On-Chain). Only the *composite
 score* needs indexed history; everything else runs on any valid contract.

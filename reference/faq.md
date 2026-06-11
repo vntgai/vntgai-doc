@@ -36,7 +36,7 @@ No. Points are an **engagement score** — not a token, security, or guaranteed 
 ## Disclaimer
 
 {% hint style="danger" %}
-VANTAGE is a research and intelligence tool. **Nothing in the product or this documentation is financial,
+VERNEY is a research and intelligence tool. **Nothing in the product or this documentation is financial,
 investment, legal, or tax advice.** Crypto assets are extremely volatile and high-risk. Forensic scans
 reduce — but never eliminate — risk; a clean scan can still rug. Paper-trading results are simulated and
 do not guarantee future performance. Always do your own research and never risk more than you can afford

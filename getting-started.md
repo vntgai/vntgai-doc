@@ -4,7 +4,7 @@ This page gets you from "first open" to "I found what I needed" in a couple of m
 
 ## 1 · Open the terminal
 
-Go to **[vantage-terminal-v2.vercel.app](https://vantage-terminal-v2.vercel.app)**. No install, no
+Go to **[verney-terminal.vercel.app](https://verney-terminal.vercel.app)**. No install, no
 sign-up required to look around — the full terminal is usable immediately.
 
 ## 2 · Take the guided demo

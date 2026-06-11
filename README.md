@@ -1,10 +1,10 @@
 ---
-description: The Bloomberg Terminal for crypto — reveal accumulation, distribution & risk.
+description: The Bloomberg Terminal for crypto — verify accumulation, distribution & risk.
 ---
 
-# Welcome to VANTAGE
+# Welcome to VERNEY
 
-**VANTAGE** is a crypto trading-intelligence terminal. It exists to answer **one question** about any
+**VERNEY** is a crypto trading-intelligence terminal. It exists to answer **one question** about any
 token:
 
 > **Is this being accumulated or distributed — and is it safe?**
@@ -16,9 +16,9 @@ It answers that by fusing four data layers that usually live in separate tools:
 * **Derivatives** — coin-denominated open interest & divergence.
 * **Macro news** — real-time headlines scored for market impact.
 
-The live terminal is at **[vantage-terminal-v2.vercel.app](https://vantage-terminal-v2.vercel.app)**.
+The live terminal is at **[verney-terminal.vercel.app](https://verney-terminal.vercel.app)**.
 
-<figure><img src=".gitbook/assets/token-workspace.png" alt="VANTAGE Token Workspace"><figcaption><p>The Token Workspace — one composite verdict (accumulation vs distribution), a live market snapshot, and the on-chain tabs that work on any contract.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/token-workspace.png" alt="VERNEY Token Workspace"><figcaption><p>The Token Workspace — one composite verdict (accumulation vs distribution), a live market snapshot, and the on-chain tabs that work on any contract.</p></figcaption></figure>
 
 {% hint style="info" %}
 **New here?** The terminal greets first-time visitors with a **guided interactive demo** that drives
@@ -55,6 +55,6 @@ itself through every module. You can replay it any time with the **❔** button 
 Start with **[Getting Started](getting-started.md) →**
 
 {% hint style="warning" %}
-VANTAGE is a research & intelligence tool. Nothing here is financial advice. Paper trades are
+VERNEY is a research & intelligence tool. Nothing here is financial advice. Paper trades are
 simulated. A clean forensic scan reduces — but never eliminates — risk.
 {% endhint %}
