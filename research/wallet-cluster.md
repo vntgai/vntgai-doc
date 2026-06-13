@@ -1,5 +1,7 @@
 # Wallet Cluster
 
+<figure><img src="../.gitbook/assets/wallet-cluster.png" alt="Wallet Cluster"><figcaption><p>Wallet Cluster — which top holders are secretly connected (shared funders / token overlap), with cohort supply change over any date window.</p></figcaption></figure>
+
 The **Wallet Cluster** tab reveals which of a token's top holders are **secretly connected** — i.e.
 controlled by the same entity. Big blocks of connected wallets are a single-source / sybil-distribution
 tell.

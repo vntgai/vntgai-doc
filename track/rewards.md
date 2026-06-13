@@ -1,5 +1,7 @@
 # Rewards
 
+<figure><img src="../.gitbook/assets/rewards.png" alt="Rewards"><figcaption><p>Rewards — points for every scan, cluster and analysis; referral links and the live leaderboard.</p></figcaption></figure>
+
 **Track → Rewards** turns research into points. Earn as you use the terminal, climb the leaderboard, and
 refer friends.
 

@@ -1,6 +1,6 @@
 # Glossary
 
-Key terms used across VERNEY.
+Key terms used across Vantage AI.
 
 | Term | Meaning |
 | --- | --- |

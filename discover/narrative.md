@@ -1,5 +1,7 @@
 # Narrative
 
+<figure><img src="../.gitbook/assets/narrative.png" alt="Narrative"><figcaption><p>Narrative — real-time macro headlines scored for impact on crypto, stocks, bonds and commodities, with per-asset index-vs-price charts.</p></figcaption></figure>
+
 **Discover → Narrative** reads the **macro tape** — real-time financial news scored for its likely impact
 on the markets that move crypto.
 

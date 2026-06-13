@@ -1,5 +1,7 @@
 # Deep Scan (Forensics)
 
+<figure><img src="../.gitbook/assets/deep-scan.png" alt="Deep Scan"><figcaption><p>Deep Scan — paste a contract and run a Lite or Pro forensic scan; Pro runs server-grade in the background (sybil layers, clustering, LP / rug).</p></figcaption></figure>
+
 The **Forensics** tab answers: **"is this token a scam / rug?"** It runs a live, server-side forensic
 engine — not a client-side approximation.
 

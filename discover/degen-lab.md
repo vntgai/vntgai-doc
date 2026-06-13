@@ -1,5 +1,7 @@
 # Degen Lab
 
+<figure><img src="../.gitbook/assets/degen-lab.png" alt="Degen Lab"><figcaption><p>Degen Lab — paste a brand-new contract for a 7-gate legitimacy scan + quality score, then jump straight into Forensics & Wallet Cluster.</p></figcaption></figure>
+
 **Discover → Degen Lab** is for **brand-new tokens** that aren't in the scored universe yet. Paste a
 fresh contract and get a fast legitimacy read before you touch it.
 

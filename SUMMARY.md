@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to VERNEY](README.md)
+* [Welcome to Vantage AI](README.md)
 * [Getting Started](getting-started.md)
 * [Account & Sign-in](account.md)
 
