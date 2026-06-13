@@ -1,59 +1,55 @@
 # Account & Sign-in
 
-You can use the entire terminal **without an account** — everything is stored locally in your browser.
-To **earn Rewards** you have two paths: a one-tap **Guest** username, or a full **Google / Wallet**
-sign-in (which also adds cloud sync across your devices).
+Vantage AI is **sign-in gated**. When you open the terminal you land on a glossy
+landing screen with the interface blurred behind a **sign-in dialog** — you must
+sign in to access the terminal. There is **no guest mode** and **no anonymous browsing**.
 
-## Ways to participate
+## How to sign in
 
-Click **Sign in** (top-right) and choose:
+On the landing screen, choose one of:
 
 | Method | What you get |
 | --- | --- |
-| **Guest** | **Pick any username** — no email, no wallet, no password. You start **earning points immediately**, and your username appears **publicly on the leaderboard**. Your rewards are recorded against that username (tied to your device). |
-| **Google** | Standard Google OAuth — your identity is your Gmail. Adds **cloud sync**. |
-| **Wallet** (Web3) | Connect MetaMask / Phantom etc. — your identity is your wallet address. Adds **cloud sync**. |
+| **Google** | Standard Google OAuth — your identity is your Gmail. Includes cloud sync. |
+| **Wallet** (Web3) | Connect MetaMask / Phantom etc. — your identity is your wallet address. Includes cloud sync. |
+
+Once you sign in, the blur lifts and the full terminal unlocks. Both methods give you the
+**complete experience**: every scan, cluster and analysis counts toward your **points and the
+public leaderboard**, plus **cloud sync** of your search history and Private Bookmarks across devices.
 
 {% hint style="info" %}
-**Guest mode is the full Rewards experience, instantly.** Choose a username and every scan, cluster
-and analysis you run **counts toward your points and the public leaderboard** — no sign-up required.
-You can upgrade to Google or Wallet later to add cross-device cloud sync; your username and standing
-carry over.
+**Sign-in is required.** The terminal cannot be used without an account — the landing
+screen stays gated until you complete Google or Wallet sign-in.
 {% endhint %}
 
-## What each path unlocks
+## What you unlock after sign-in
 
-| Capability | Guest (username) | Google / Wallet |
-| --- | --- | --- |
-| **Points** — earned for every feature you use | ✅ | ✅ |
-| **Referral link** — invite others, earn referral points | ✅ | ✅ |
-| **Public leaderboard** — your username ranked for everyone to see | ✅ | ✅ |
-| **Cloud sync** — search history + Private Bookmarks across devices | — *(this browser only)* | ✅ |
+| Capability | Google / Wallet |
+| --- | --- |
+| **Full terminal access** — research, signals, tracking, discovery | ✅ |
+| **Points** — earned for every feature you use | ✅ |
+| **Referral link** — invite others, earn referral points | ✅ |
+| **Public leaderboard** — your name ranked for everyone to see | ✅ |
+| **Cloud sync** — search history + Private Bookmarks across devices | ✅ |
 
-So **all rewards are recorded and publicly visible whether you sign in or stay a Guest** — the only
-thing a full sign-in adds is syncing your private data (history, bookmarks) across devices. See
-[Rewards](track/rewards.md) for how points are earned and ranked.
+See [Rewards](track/rewards.md) for how points are earned and ranked.
 
-## Picking & changing your username
+## One account per device
 
-* On first use, open **Sign in → Guest** and type the **username** you want to appear under on the
-  leaderboard. Pick something recognizable — it is **public**.
-* Your username is stored with your account, so your points accrue under it consistently.
-* Upgrading to Google/Wallet keeps your username and merges your existing points.
-
-## Privacy & anti-abuse
-
-* The terminal uses a **device fingerprint** (a hash of browser/hardware characteristics) to keep the
-  rewards system fair — **one device = one account**. It is **not** your MAC address (browsers can't read
-  that) and isn't used to track you across the web.
-* If a device is already linked to another account, a second account on it is declined for rewards
-  (you'll see a notice) — this prevents point farming. This applies to Guest usernames too.
+* The terminal uses a **device fingerprint** (a hash of browser/hardware characteristics) to keep
+  the rewards system fair — **one device = one account**. It is **not** your MAC address (browsers
+  can't read that) and isn't used to track you across the web.
+* If a device is **already linked to another account**, a second sign-in on that device is declined:
+  you are signed back out and shown a notice on the gate. This prevents point farming and stops
+  multiple accounts being created on the same device.
+* To use a different account on the same device, sign in with the account that already owns it.
 
 ## Signing out
 
-Use **Sign out** in the account menu. Locally-stored data (bookmarks made while signed out, the early
-paper book) remains in your browser unless cleared. Signing back in — Guest or Google/Wallet — restores
-your rewards standing.
+Use **Sign out** in the account menu. You return to the gated landing screen and must sign in
+again to re-enter. Locally-cached data (Private Bookmarks, the early paper book) remains in your
+browser unless cleared; signing back in with the same Google/Wallet identity restores your
+rewards standing and cloud data.
 
 ---
 

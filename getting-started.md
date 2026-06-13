@@ -2,10 +2,12 @@
 
 This page gets you from "first open" to "I found what I needed" in a couple of minutes.
 
-## 1 · Open the terminal
+## 1 · Open the terminal & sign in
 
-Go to **[vntgai.com](https://vntgai.com)**. No install, no
-sign-up required to look around — the full terminal is usable immediately.
+Go to **[vntgai.com](https://vntgai.com)**. No install needed. The terminal opens on a glossy
+landing screen with a **sign-in dialog** over the blurred interface — sign in with **Google** or a
+**Web3 wallet** to unlock it. There is **no guest mode**, and it is **one account per device**.
+See [Account & Sign-in](account.md).
 
 ## 2 · Take the guided demo
 
@@ -32,8 +34,8 @@ The left sidebar has three groups:
 | **Discover** | Browse the **whole market** — Radar, Flow, Narrative, Degen Lab. |
 | **Track** | The **public record** (Signal-Trade), your **saved tokens**, and your **Rewards**. |
 
-The top bar has: the **theme toggle**, the **❔ demo** button, a **points badge** (once signed in), and
-**Sign in**.
+The top bar has: the **theme toggle**, the **❔ demo** button, a **points badge**, and your
+**account menu** (sign out).
 
 ## 4 · Research your first token
 
@@ -49,10 +51,11 @@ You'll get an instant **composite verdict** and a plain-English read, then you c
 that aren't in the scored universe yet, then lets you jump straight into Forensics and Wallet Cluster.
 {% endhint %}
 
-## 5 · Sign in (optional, recommended)
+## 5 · Your account
 
-Signing in with **Google** or a **wallet** unlocks cloud sync (your bookmarks & history follow you) and
-**Rewards** (points, referrals, leaderboard). See [Account & Sign-in](account.md).
+You signed in at step 1, so cloud sync (your bookmarks & history follow you) and **Rewards** (points,
+referrals, leaderboard) are already on. Remember it's **one account per device** — a second account on
+the same device is declined. See [Account & Sign-in](account.md).
 
 ---
 
