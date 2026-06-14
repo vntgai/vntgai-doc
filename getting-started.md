@@ -31,7 +31,7 @@ The left sidebar has three groups:
 | Group | What it's for |
 | --- | --- |
 | **Research** | Work **one token** in depth — search a contract, get a verdict, drill into tabs. |
-| **Discover** | Browse the **whole market** — Radar, Flow, Narrative, Degen Lab. |
+| **Discover** | Browse the **whole market** — Flow, Narrative, US Stocks. |
 | **Track** | The **public record** (Signal-Trade), your **saved tokens**, and your **Rewards**. |
 
 The top bar has: the **theme toggle**, the **❔ demo** button, a **points badge**, and your
@@ -47,8 +47,8 @@ You'll get an instant **composite verdict** and a plain-English read, then you c
 **Perpetual · On-Chain · Wallet Cluster · Forensics**. See [Token Workspace](research/token-workspace.md).
 
 {% hint style="info" %}
-**Early / unlisted token?** Use **[Degen Lab](discover/degen-lab.md)** — it scans brand-new contracts
-that aren't in the scored universe yet, then lets you jump straight into Forensics and Wallet Cluster.
+**Early / unlisted token?** Paste it into the **[Token Workspace](research/token-workspace.md)** anyway —
+even without backbone coverage the **live on-chain tools** (Forensics · Wallet Cluster · On-Chain) still work.
 {% endhint %}
 
 ## 5 · Your account

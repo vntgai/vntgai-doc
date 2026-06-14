@@ -12,10 +12,9 @@
 
 ## Discover
 
-* [Radar](discover/radar.md)
 * [Flow](discover/flow.md)
 * [Narrative](discover/narrative.md)
-* [Degen Lab](discover/degen-lab.md)
+* [US Stocks](discover/us-stocks.md)
 
 ## Track
 

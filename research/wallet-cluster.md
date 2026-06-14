@@ -78,4 +78,4 @@ holder data (with a fallback provider for BSC).
 
 ---
 
-**Next:** [Radar →](../discover/radar.md)
+**Next:** [Flow →](../discover/flow.md)

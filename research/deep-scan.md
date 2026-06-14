@@ -18,7 +18,7 @@ scan runs in the background** — you're never stuck waiting on a spinner.
 3. Results are **public and cached server-side** — anyone can open a completed scan without re-running it.
 
 {% hint style="info" %}
-You can also open a scan straight from a [Degen Lab](../discover/degen-lab.md) result via
+You can also run a deeper server-grade scan via
 **🛰️ Full Forensics**. Solana tokens still scan inline (the server engine is EVM-only).
 {% endhint %}
 

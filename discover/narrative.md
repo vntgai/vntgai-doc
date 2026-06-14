@@ -49,4 +49,4 @@ features (portfolio impact, "ask the analyst") are planned as paid-tier add-ons.
 
 ---
 
-**Next:** [Degen Lab →](degen-lab.md)
+**Next:** [US Stocks →](us-stocks.md)

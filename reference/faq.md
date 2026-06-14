@@ -7,7 +7,7 @@ No — the whole terminal is usable signed out. Signing in adds cloud sync + [Re
 
 **Why does a token say "no backbone coverage"?**\
 It isn't in the scored universe yet (the composite needs indexed history). The **live on-chain tools still
-work** — open it via [Degen Lab](../discover/degen-lab.md) or use the Forensics / Wallet Cluster / On-Chain
+work** — use the Forensics / Wallet Cluster / On-Chain
 tabs. See [Token Workspace](../research/token-workspace.md).
 
 **Which chains are supported?**\
@@ -27,7 +27,7 @@ No. It's a rules-based **same-day context** read; a 360-day backtest showed near
 accuracy. See [Narrative](../discover/narrative.md).
 
 **Are the trades real?**\
-No — [Signal-Trade](../track/signal-trade.md) and Degen Lab bets are **paper / simulated** for transparency
+No — [Signal-Trade](../track/signal-trade.md) trades are **paper / simulated** for transparency
 and research.
 
 **Are points worth money?**\

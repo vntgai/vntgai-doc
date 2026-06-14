@@ -17,9 +17,8 @@ Key terms used across Vantage AI.
 | **Analysis window** | The start–end period (set via the Wallet Cluster price chart) the engine clusters within. |
 | **Holdings snapshot** | Balances read at the **end date** of your chosen window (historical, not just current). |
 | **Top-10 supply share** | Combined % of supply held by the 10 largest holders — the metric behind holder-change alerts. |
-| **Squeeze (k-rule)** | The SqueezePattern4H 4-hour futures pattern; Radar shows candidates one feature short of firing. |
-| **SmartFlow** | On-chain accumulation-building signal (the Radar list + the live paper book). |
-| **Degen Lab gate** | The 7-gate early-token legitimacy check + 0–100 quality score. |
+| **Squeeze (k-rule)** | The SqueezePattern4H 4-hour futures pattern behind the Signal-Trade book. |
+| **SmartFlow** | On-chain accumulation-building signal (the live paper book). |
 | **Signal-Trade** | The public, auto-executed **paper** track record. |
 | **Tone (Narrative)** | Risk-on / risk-off / mixed read of the macro tape. |
 | **Tier** | Rewards rank: Bronze → Silver → Gold → Platinum → Diamond. |

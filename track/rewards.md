@@ -15,7 +15,7 @@ You earn points for **real usage** (with daily caps + anti-abuse so it stays fai
 | Daily check-in | +5 |
 | Analyze a token | +5 |
 | Run a Wallet Cluster | +15 |
-| Deep Scan / Degen scan | +20 |
+| Run a Deep Scan | +20 |
 | Bookmark a token | +3 |
 | View / depth actions | +1–2 |
 | **Referral (you / them)** | **+100 / +25** |

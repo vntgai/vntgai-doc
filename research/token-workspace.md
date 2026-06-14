@@ -39,8 +39,7 @@ Common **pattern labels** include *full agreement* (strongest), *strong buy*, *a
 **Outside the scored universe?** The composite score only appears once a token is in the **scored universe**
 (it needs indexed history). For any other contract you'll see a **🛰️ Live on-chain** overview instead — the
 resolved symbol/chain and a market snapshot — and the Forensics / Wallet Cluster / On-Chain tabs run
-directly on it. Nothing is a dead-end: paste any `0x…` or Solana mint, or open one from
-[Degen Lab](../discover/degen-lab.md).
+directly on it. Nothing is a dead-end: paste any `0x…` or Solana mint — even brand-new contracts not yet in the scored universe.
 {% endhint %}
 
 ## The tabs

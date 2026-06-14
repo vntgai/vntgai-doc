@@ -34,10 +34,8 @@ itself through every module. You can replay it any time with the **❔** button 
 | Research one token in depth | **Research → Token** | [Token Workspace](research/token-workspace.md) |
 | Check if a token is a scam / rug | **Token → Forensics** | [Deep Scan](research/deep-scan.md) |
 | See which holders are secretly connected | **Token → Wallet Cluster** | [Wallet Cluster](research/wallet-cluster.md) |
-| Catch setups *before* they trigger | **Discover → Radar** | [Radar](discover/radar.md) |
 | Watch smart-money & exchange flows | **Discover → Flow** | [Flow](discover/flow.md) |
 | Read the macro tape | **Discover → Narrative** | [Narrative](discover/narrative.md) |
-| Scan a brand-new contract | **Discover → Degen Lab** | [Degen Lab](discover/degen-lab.md) |
 | See our public paper track record | **Track → Signal-Trade** | [Signal-Trade](track/signal-trade.md) |
 | Earn points & climb the leaderboard | **Track → Rewards** | [Rewards](track/rewards.md) |
 
