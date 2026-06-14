@@ -1,11 +1,11 @@
 ---
-description: The comprehensive intelligence and decision terminal for crypto — verify accumulation, distribution & risk.
+description: The Bloomberg Terminal for Crypto — verify accumulation, distribution & risk.
 ---
 
 # Welcome to Vantage AI
 
-**Vantage AI** is a crypto trading-intelligence terminal. It exists to answer **one question** about any
-token:
+**Vantage AI** is **The Bloomberg Terminal for Crypto** — a trading-intelligence terminal that exists to
+answer **one question** about any token:
 
 > **Is this being accumulated or distributed — and is it safe?**
 
