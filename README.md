@@ -1,5 +1,5 @@
 ---
-description: The Bloomberg Terminal for crypto — verify accumulation, distribution & risk.
+description: The comprehensive intelligence and decision terminal for crypto — verify accumulation, distribution & risk.
 ---
 
 # Welcome to Vantage AI
